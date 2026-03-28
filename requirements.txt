@@ -1,0 +1,9 @@
+stable-baselines3[extra]
+gymnasium[box2d]
+minigrid
+numpy
+pandas
+matplotlib
+seaborn
+jupyter
+ipykernel
