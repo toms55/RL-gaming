@@ -7,3 +7,4 @@ matplotlib
 seaborn
 jupyter
 ipykernel
+scipy==1.15.3
