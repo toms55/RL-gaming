@@ -1,11 +1,11 @@
 Environment,Agent,Condition,N Episodes,Mean (all),Mean (late),Std (late),Convergence Timestep
-CartPole-v1,DQN,Baseline,1820,109.8901,115.02,125.467,155691.0
-LunarLander-v3,DQN,Baseline,11016,65.7595,-42.135,96.1682,2867083.0
-MiniGrid-Empty-5x5-v0,DQN,Baseline,38346,0.8783,0.9438,0.0571,252107.0
-MiniGrid-Empty-5x5-v0,QLearning,Baseline (Q-Learning),2000,0.9136,0.9428,0.0073,18938.0
-CartPole-v1,DQN_Manual,Manual Shaping,1699,116.1758,115.7843,149.6141,150043.0
-LunarLander-v3,DQN_Manual,Manual Shaping,12009,119.0907,232.8723,97.5528,2889412.0
-MiniGrid-Empty-5x5-v0,DQN_Manual,Manual Shaping,81996,1.6632,1.7062,0.0459,74798.0
+CartPole-v1,DQN,Baseline,9176,108.9866,155.69,162.3637,217033.0
+LunarLander-v3,DQN,Baseline,49897,51.502,-551.0371,82.6401,14983668.0
+MiniGrid-Empty-5x5-v0,DQN,Baseline,204756,0.8865,0.9211,0.1272,170081.0
+MiniGrid-Empty-5x5-v0,QLearning,Baseline (Q-Learning),10000,0.9293,0.9531,0.0064,14644.0
+CartPole-v1,DQN_Manual,Manual Shaping,8488,116.166,217.8516,172.2434,252320.0
+LunarLander-v3,DQN_Manual,Manual Shaping,55361,117.0748,-12.662,271.0265,756666.0
+MiniGrid-Empty-5x5-v0,DQN_Manual,Manual Shaping,410032,1.663,1.7068,0.0352,69365.0
 CartPole-v1,DQN_GA,GA-Evolved Shaping,8501,116.2305,108.0141,118.5548,241031.0
 LunarLander-v3,DQN_GA,GA-Evolved Shaping,53729,100.6682,194.4285,180.1893,803397.0
 MiniGrid-Empty-5x5-v0,DQN_GA,GA-Evolved Shaping,431292,1.7523,1.8085,0.0793,73671.0
